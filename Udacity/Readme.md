@@ -1,5 +1,5 @@
 #  A/B Testing
-This repo is the final project for completing the [A/B Test course by Udacity](https://www.udacity.com/course/ab-testing--ud257)https://www.udacity.com/course/ab-testing--ud257.  
+This repo is the final project for completing the [A/B Test course by Udacity](https://www.udacity.com/course/ab-testing--ud257).
 
 In this repo, an A/B test has been designed and analyzed for the addition of a "free trial screener" after a user clicks on "Start Free Trial" button on a course overview page to test whether there will be improvements in the user experiece and tendency for users to stay on after the 14 days free trial period.  
 
